@@ -20,8 +20,7 @@ Default installation procedure
 Using Docker
 ------------
 
-.. toctree::
-   :maxdepth: 1
-   :caption: Installing Docker
+.. autosummary::
+   :toctree: generated
 
-   Installation/Docker.rst
+   lumache
